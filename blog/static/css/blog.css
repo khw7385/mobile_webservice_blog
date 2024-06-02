@@ -50,3 +50,7 @@ body{
     padding-left: 15px;
     font-family: 'Lobster';
 }
+
+.intruder-image-list{
+    object-fit: cover;
+}
